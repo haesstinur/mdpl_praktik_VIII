@@ -1,1 +1,4 @@
 metodologi perangkat lunak praktik
+Brance adalah Cabang dari repository utama Anda. Di branch, kode yang Anda utak-atik tak akan berefek ke repository utama. Jadi, Anda bisa bebas bereksperimen atau memperbaiki bug di sini.
+Marge adalah Menggabungkan kode yang sudah diubah pada suatu branch ke repository lainnya. Jadi, setelah Anda bereksperimen dengan kode di branch, Anda bisa langsung memasukkannya pada repository utama dengan merge.
+Fork adalah Menyalin repository orang lain ke akun GitHub Anda. Biasanya digunakan untuk bereksperimen pada suatu project yang Anda anggap menarik.
